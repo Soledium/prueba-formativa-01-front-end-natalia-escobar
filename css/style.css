@@ -1,0 +1,28 @@
+
+/* .roboto-slab-<uniquifier> {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  } */
+
+  
+/* .playwrite-ie-<uniquifier> {
+    font-family: "Playwrite IE", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  } */
+
+  
+/* .playfair-display-<uniquifier> {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  } */
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+}

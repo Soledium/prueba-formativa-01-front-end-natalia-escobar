@@ -1,5 +1,8 @@
-1- help me to do a basic estructure for my index.
+1- Help me to do a basic estructure for my index.
 - Se considera la estructura básica entregada desde el main incluyendo section y footer, ya que se basó directamente 
 en lo ya creado y añadió el subtítulo de las películas destacadas y la lista sin imágenes aún. 
 
-2- 
+2- Elimina las viñetas del listado de peliculas
+- se toma la línea de código arrojada: style="list-style-type: none; padding: 0;"
+
+3- 
