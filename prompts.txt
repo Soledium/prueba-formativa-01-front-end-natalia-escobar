@@ -1,0 +1,5 @@
+1- help me to do a basic estructure for my index.
+- Se considera la estructura básica entregada desde el main incluyendo section y footer, ya que se basó directamente 
+en lo ya creado y añadió el subtítulo de las películas destacadas y la lista sin imágenes aún. 
+
+2- 
